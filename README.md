@@ -1,4 +1,4 @@
-#Anpush Integration
+## Anpush Integration
 Anpush combines all the tools for analytics and tracking tool in one solution.
 Allows you to manage, set up detailed statistics and push marketing using one convenient source of truth.
 If you want to use our tool in your project, please contact us and we will provide you with the api key.
@@ -34,7 +34,9 @@ This is Extremely important for the operation of advertising blocks!
 ### SDK Configuration
 SDK init by configuration file, so you need ask your manager about it, and add this file to your main TARGET:
 
-![enter image description here](https://imgur.com/Jvh88dC)
+![Imgur](https://imgur.com/Jvh88dC)
+
+## Finish
 
 *Target project is ready , Build test and publish project in original way.*
 
