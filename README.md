@@ -26,13 +26,13 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 ![enter image description here](https://i.imgur.com/bg1UMSz.png)
 
 #### Review your Deployment Info tab, accordint to image
-**Enable here ALL AVAILABLE project orientation, and valid value to Launch Screen File!** 
+**Enable here ALL AVAILABLE project orientation!** 
 This is Extremely important for the operation of advertising blocks!
 
 ![enter image description here](https://i.imgur.com/g1HDkvC.png)
 
 ### SDK Configuration
-SDK init by configuration file, so you need ask your manager about it, and add this file to your main TARGET:
+SDK init by configuration file, so you need ask your manager about it: **GoogleService-Info.plist**, and add this file to your main TARGET without any changes:
 
 ![Imgur](https://i.imgur.com/Jvh88dC.png)
 
