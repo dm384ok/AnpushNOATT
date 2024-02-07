@@ -1,0 +1,11 @@
+framework module Anpush {
+  umbrella header "Anpush.h"
+  export *
+
+  module * { export * }
+}
+
+module Anpush.Swift {
+  header "Anpush-Swift.h"
+  requires objc
+}

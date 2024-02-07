@@ -1,0 +1,3106 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Disk",
+        "printedName": "Disk",
+        "children": [
+          {
+            "kind": "TypeDecl",
+            "name": "Directory",
+            "printedName": "Directory",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "documents",
+                "printedName": "documents",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.Directory.Type) -> Anpush.Disk.Directory",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Directory",
+                        "printedName": "Anpush.Disk.Directory",
+                        "usr": "s:6Anpush4DiskC9DirectoryO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.Directory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Anpush.Disk.Directory",
+                            "usr": "s:6Anpush4DiskC9DirectoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9DirectoryO9documentsyA2EmF",
+                "mangledName": "$s6Anpush4DiskC9DirectoryO9documentsyA2EmF",
+                "moduleName": "Anpush",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "caches",
+                "printedName": "caches",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.Directory.Type) -> Anpush.Disk.Directory",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Directory",
+                        "printedName": "Anpush.Disk.Directory",
+                        "usr": "s:6Anpush4DiskC9DirectoryO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.Directory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Anpush.Disk.Directory",
+                            "usr": "s:6Anpush4DiskC9DirectoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9DirectoryO6cachesyA2EmF",
+                "mangledName": "$s6Anpush4DiskC9DirectoryO6cachesyA2EmF",
+                "moduleName": "Anpush",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "applicationSupport",
+                "printedName": "applicationSupport",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.Directory.Type) -> Anpush.Disk.Directory",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Directory",
+                        "printedName": "Anpush.Disk.Directory",
+                        "usr": "s:6Anpush4DiskC9DirectoryO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.Directory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Anpush.Disk.Directory",
+                            "usr": "s:6Anpush4DiskC9DirectoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9DirectoryO18applicationSupportyA2EmF",
+                "mangledName": "$s6Anpush4DiskC9DirectoryO18applicationSupportyA2EmF",
+                "moduleName": "Anpush",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "temporary",
+                "printedName": "temporary",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.Directory.Type) -> Anpush.Disk.Directory",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Directory",
+                        "printedName": "Anpush.Disk.Directory",
+                        "usr": "s:6Anpush4DiskC9DirectoryO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.Directory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Anpush.Disk.Directory",
+                            "usr": "s:6Anpush4DiskC9DirectoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9DirectoryO9temporaryyA2EmF",
+                "mangledName": "$s6Anpush4DiskC9DirectoryO9temporaryyA2EmF",
+                "moduleName": "Anpush",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "sharedContainer",
+                "printedName": "sharedContainer",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.Directory.Type) -> (Swift.String) -> Anpush.Disk.Directory",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Swift.String) -> Anpush.Disk.Directory",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Anpush.Disk.Directory",
+                            "usr": "s:6Anpush4DiskC9DirectoryO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(appGroupName: Swift.String)",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.Directory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Anpush.Disk.Directory",
+                            "usr": "s:6Anpush4DiskC9DirectoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9DirectoryO15sharedContaineryAESS_tcAEmF",
+                "mangledName": "$s6Anpush4DiskC9DirectoryO15sharedContaineryAESS_tcAEmF",
+                "moduleName": "Anpush",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "pathDescription",
+                "printedName": "pathDescription",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:6Anpush4DiskC9DirectoryO15pathDescriptionSSvp",
+                "mangledName": "$s6Anpush4DiskC9DirectoryO15pathDescriptionSSvp",
+                "moduleName": "Anpush",
+                "declAttributes": [
+                  "AccessControl"
+                ],
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:6Anpush4DiskC9DirectoryO15pathDescriptionSSvg",
+                    "mangledName": "$s6Anpush4DiskC9DirectoryO15pathDescriptionSSvg",
+                    "moduleName": "Anpush",
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "==",
+                "printedName": "==(_:_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Directory",
+                    "printedName": "Anpush.Disk.Directory",
+                    "usr": "s:6Anpush4DiskC9DirectoryO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Directory",
+                    "printedName": "Anpush.Disk.Directory",
+                    "usr": "s:6Anpush4DiskC9DirectoryO"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:6Anpush4DiskC9DirectoryO2eeoiySbAE_AEtFZ",
+                "mangledName": "$s6Anpush4DiskC9DirectoryO2eeoiySbAE_AEtFZ",
+                "moduleName": "Anpush",
+                "static": true,
+                "declAttributes": [
+                  "AccessControl"
+                ],
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:6Anpush4DiskC9DirectoryO",
+            "mangledName": "$s6Anpush4DiskC9DirectoryO",
+            "moduleName": "Anpush",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "save",
+            "printedName": "save(_:to:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC4save_2to2asySo7UIImageC_AC9DirectoryOSStKFZ",
+            "mangledName": "$s6Anpush4DiskC4save_2to2asySo7UIImageC_AC9DirectoryOSStKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retrieve",
+            "printedName": "retrieve(_:from:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "UIKit.UIImage.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC8retrieve_4from2asSo7UIImageCSS_AC9DirectoryOAHmtKFZ",
+            "mangledName": "$s6Anpush4DiskC8retrieve_4from2asSo7UIImageCSS_AC9DirectoryOAHmtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "ErrorCode",
+            "printedName": "ErrorCode",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "noFileFound",
+                "printedName": "noFileFound",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.ErrorCode.Type) -> Anpush.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Anpush.Disk.ErrorCode",
+                        "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Anpush.Disk.ErrorCode",
+                            "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9ErrorCodeO11noFileFoundyA2EmF",
+                "mangledName": "$s6Anpush4DiskC9ErrorCodeO11noFileFoundyA2EmF",
+                "moduleName": "Anpush"
+              },
+              {
+                "kind": "Var",
+                "name": "serialization",
+                "printedName": "serialization",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.ErrorCode.Type) -> Anpush.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Anpush.Disk.ErrorCode",
+                        "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Anpush.Disk.ErrorCode",
+                            "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9ErrorCodeO13serializationyA2EmF",
+                "mangledName": "$s6Anpush4DiskC9ErrorCodeO13serializationyA2EmF",
+                "moduleName": "Anpush"
+              },
+              {
+                "kind": "Var",
+                "name": "deserialization",
+                "printedName": "deserialization",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.ErrorCode.Type) -> Anpush.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Anpush.Disk.ErrorCode",
+                        "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Anpush.Disk.ErrorCode",
+                            "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9ErrorCodeO15deserializationyA2EmF",
+                "mangledName": "$s6Anpush4DiskC9ErrorCodeO15deserializationyA2EmF",
+                "moduleName": "Anpush"
+              },
+              {
+                "kind": "Var",
+                "name": "invalidFileName",
+                "printedName": "invalidFileName",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.ErrorCode.Type) -> Anpush.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Anpush.Disk.ErrorCode",
+                        "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Anpush.Disk.ErrorCode",
+                            "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9ErrorCodeO15invalidFileNameyA2EmF",
+                "mangledName": "$s6Anpush4DiskC9ErrorCodeO15invalidFileNameyA2EmF",
+                "moduleName": "Anpush"
+              },
+              {
+                "kind": "Var",
+                "name": "couldNotAccessTemporaryDirectory",
+                "printedName": "couldNotAccessTemporaryDirectory",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.ErrorCode.Type) -> Anpush.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Anpush.Disk.ErrorCode",
+                        "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Anpush.Disk.ErrorCode",
+                            "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9ErrorCodeO32couldNotAccessTemporaryDirectoryyA2EmF",
+                "mangledName": "$s6Anpush4DiskC9ErrorCodeO32couldNotAccessTemporaryDirectoryyA2EmF",
+                "moduleName": "Anpush"
+              },
+              {
+                "kind": "Var",
+                "name": "couldNotAccessUserDomainMask",
+                "printedName": "couldNotAccessUserDomainMask",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.ErrorCode.Type) -> Anpush.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Anpush.Disk.ErrorCode",
+                        "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Anpush.Disk.ErrorCode",
+                            "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9ErrorCodeO28couldNotAccessUserDomainMaskyA2EmF",
+                "mangledName": "$s6Anpush4DiskC9ErrorCodeO28couldNotAccessUserDomainMaskyA2EmF",
+                "moduleName": "Anpush"
+              },
+              {
+                "kind": "Var",
+                "name": "couldNotAccessSharedContainer",
+                "printedName": "couldNotAccessSharedContainer",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Anpush.Disk.ErrorCode.Type) -> Anpush.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Anpush.Disk.ErrorCode",
+                        "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Anpush.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Anpush.Disk.ErrorCode",
+                            "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:6Anpush4DiskC9ErrorCodeO29couldNotAccessSharedContaineryA2EmF",
+                "mangledName": "$s6Anpush4DiskC9ErrorCodeO29couldNotAccessSharedContaineryA2EmF",
+                "moduleName": "Anpush"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(rawValue:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Anpush.Disk.ErrorCode?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Anpush.Disk.ErrorCode",
+                        "usr": "s:6Anpush4DiskC9ErrorCodeO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:6Anpush4DiskC9ErrorCodeO8rawValueAESgSi_tcfc",
+                "mangledName": "$s6Anpush4DiskC9ErrorCodeO8rawValueAESgSi_tcfc",
+                "moduleName": "Anpush",
+                "implicit": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Var",
+                "name": "rawValue",
+                "printedName": "rawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:6Anpush4DiskC9ErrorCodeO8rawValueSivp",
+                "mangledName": "$s6Anpush4DiskC9ErrorCodeO8rawValueSivp",
+                "moduleName": "Anpush",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:6Anpush4DiskC9ErrorCodeO8rawValueSivg",
+                    "mangledName": "$s6Anpush4DiskC9ErrorCodeO8rawValueSivg",
+                    "moduleName": "Anpush",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:6Anpush4DiskC9ErrorCodeO",
+            "mangledName": "$s6Anpush4DiskC9ErrorCodeO",
+            "moduleName": "Anpush",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "enumRawTypeName": "Int",
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "RawRepresentable",
+                "printedName": "RawRepresentable",
+                "children": [
+                  {
+                    "kind": "TypeWitness",
+                    "name": "RawValue",
+                    "printedName": "RawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:SY",
+                "mangledName": "$sSY"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "errorDomain",
+            "printedName": "errorDomain",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6Anpush4DiskC11errorDomainSSvpZ",
+            "mangledName": "$s6Anpush4DiskC11errorDomainSSvpZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Anpush4DiskC11errorDomainSSvgZ",
+                "mangledName": "$s6Anpush4DiskC11errorDomainSSvgZ",
+                "moduleName": "Anpush",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "totalCapacity",
+            "printedName": "totalCapacity",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6Anpush4DiskC13totalCapacitySiSgvpZ",
+            "mangledName": "$s6Anpush4DiskC13totalCapacitySiSgvpZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Anpush4DiskC13totalCapacitySiSgvgZ",
+                "mangledName": "$s6Anpush4DiskC13totalCapacitySiSgvgZ",
+                "moduleName": "Anpush",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "availableCapacity",
+            "printedName": "availableCapacity",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6Anpush4DiskC17availableCapacitySiSgvpZ",
+            "mangledName": "$s6Anpush4DiskC17availableCapacitySiSgvpZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Anpush4DiskC17availableCapacitySiSgvgZ",
+                "mangledName": "$s6Anpush4DiskC17availableCapacitySiSgvgZ",
+                "moduleName": "Anpush",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "availableCapacityForImportantUsage",
+            "printedName": "availableCapacityForImportantUsage",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6Anpush4DiskC34availableCapacityForImportantUsageSiSgvpZ",
+            "mangledName": "$s6Anpush4DiskC34availableCapacityForImportantUsageSiSgvpZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Anpush4DiskC34availableCapacityForImportantUsageSiSgvgZ",
+                "mangledName": "$s6Anpush4DiskC34availableCapacityForImportantUsageSiSgvgZ",
+                "moduleName": "Anpush",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "availableCapacityForOpportunisticUsage",
+            "printedName": "availableCapacityForOpportunisticUsage",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6Anpush4DiskC38availableCapacityForOpportunisticUsageSiSgvpZ",
+            "mangledName": "$s6Anpush4DiskC38availableCapacityForOpportunisticUsageSiSgvpZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Anpush4DiskC38availableCapacityForOpportunisticUsageSiSgvgZ",
+                "mangledName": "$s6Anpush4DiskC38availableCapacityForOpportunisticUsageSiSgvgZ",
+                "moduleName": "Anpush",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "save",
+            "printedName": "save(_:to:as:encoder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONEncoder",
+                "printedName": "Foundation.JSONEncoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONEncoderC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC4save_2to2as7encoderyx_AC9DirectoryOSS10Foundation11JSONEncoderCtKSERzlFZ",
+            "mangledName": "$s6Anpush4DiskC4save_2to2as7encoderyx_AC9DirectoryOSS10Foundation11JSONEncoderCtKSERzlFZ",
+            "moduleName": "Anpush",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Encodable>",
+            "sugared_genericSig": "<T where T : Swift.Encodable>",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:decoder:encoder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONDecoder",
+                "printedName": "Foundation.JSONDecoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONDecoderC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONEncoder",
+                "printedName": "Foundation.JSONEncoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONEncoderC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6append_2to2in7decoder7encoderyx_SSAC9DirectoryO10Foundation11JSONDecoderCAK11JSONEncoderCtKSeRzSERzlFZ",
+            "mangledName": "$s6Anpush4DiskC6append_2to2in7decoder7encoderyx_SSAC9DirectoryO10Foundation11JSONDecoderCAK11JSONEncoderCtKSeRzSERzlFZ",
+            "moduleName": "Anpush",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable, τ_0_0 : Swift.Encodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable, T : Swift.Encodable>",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:decoder:encoder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[τ_0_0]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONDecoder",
+                "printedName": "Foundation.JSONDecoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONDecoderC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONEncoder",
+                "printedName": "Foundation.JSONEncoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONEncoderC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6append_2to2in7decoder7encoderySayxG_SSAC9DirectoryO10Foundation11JSONDecoderCAL11JSONEncoderCtKSeRzSERzlFZ",
+            "mangledName": "$s6Anpush4DiskC6append_2to2in7decoder7encoderySayxG_SSAC9DirectoryO10Foundation11JSONDecoderCAL11JSONEncoderCtKSeRzSERzlFZ",
+            "moduleName": "Anpush",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable, τ_0_0 : Swift.Encodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable, T : Swift.Encodable>",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retrieve",
+            "printedName": "retrieve(_:from:as:decoder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "τ_0_0.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONDecoder",
+                "printedName": "Foundation.JSONDecoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONDecoderC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC8retrieve_4from2as7decoderxSS_AC9DirectoryOxm10Foundation11JSONDecoderCtKSeRzlFZ",
+            "mangledName": "$s6Anpush4DiskC8retrieve_4from2as7decoderxSS_AC9DirectoryOxm10Foundation11JSONDecoderCtKSeRzlFZ",
+            "moduleName": "Anpush",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable>",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "save",
+            "printedName": "save(_:to:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Foundation.Data]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC4save_2to2asySay10Foundation4DataVG_AC9DirectoryOSStKFZ",
+            "mangledName": "$s6Anpush4DiskC4save_2to2asySay10Foundation4DataVG_AC9DirectoryOSStKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6append_2to2iny10Foundation4DataV_SSAC9DirectoryOtKFZ",
+            "mangledName": "$s6Anpush4DiskC6append_2to2iny10Foundation4DataV_SSAC9DirectoryOtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Foundation.Data]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6append_2to2inySay10Foundation4DataVG_SSAC9DirectoryOtKFZ",
+            "mangledName": "$s6Anpush4DiskC6append_2to2inySay10Foundation4DataVG_SSAC9DirectoryOtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retrieve",
+            "printedName": "retrieve(_:from:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Foundation.Data]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "[Foundation.Data].Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Foundation.Data]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Data",
+                        "printedName": "Foundation.Data",
+                        "usr": "s:10Foundation4DataV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC8retrieve_4from2asSay10Foundation4DataVGSS_AC9DirectoryOAJmtKFZ",
+            "mangledName": "$s6Anpush4DiskC8retrieve_4from2asSay10Foundation4DataVGSS_AC9DirectoryOAJmtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "save",
+            "printedName": "save(_:to:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIImage]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC4save_2to2asySaySo7UIImageCG_AC9DirectoryOSStKFZ",
+            "mangledName": "$s6Anpush4DiskC4save_2to2asySaySo7UIImageCG_AC9DirectoryOSStKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6append_2to2inySo7UIImageC_SSAC9DirectoryOtKFZ",
+            "mangledName": "$s6Anpush4DiskC6append_2to2inySo7UIImageC_SSAC9DirectoryOtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIImage]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6append_2to2inySaySo7UIImageCG_SSAC9DirectoryOtKFZ",
+            "mangledName": "$s6Anpush4DiskC6append_2to2inySaySo7UIImageCG_SSAC9DirectoryOtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retrieve",
+            "printedName": "retrieve(_:from:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIImage]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "[UIKit.UIImage].Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[UIKit.UIImage]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC8retrieve_4from2asSaySo7UIImageCGSS_AC9DirectoryOAImtKFZ",
+            "mangledName": "$s6Anpush4DiskC8retrieve_4from2asSaySo7UIImageCGSS_AC9DirectoryOAImtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "save",
+            "printedName": "save(_:to:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC4save_2to2asy10Foundation4DataV_AC9DirectoryOSStKFZ",
+            "mangledName": "$s6Anpush4DiskC4save_2to2asy10Foundation4DataV_AC9DirectoryOSStKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retrieve",
+            "printedName": "retrieve(_:from:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "Foundation.Data.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC8retrieve_4from2as10Foundation4DataVSS_AC9DirectoryOAImtKFZ",
+            "mangledName": "$s6Anpush4DiskC8retrieve_4from2as10Foundation4DataVSS_AC9DirectoryOAImtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getURL",
+            "printedName": "getURL(for:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6getURL3for2in10Foundation0D0VSSSg_AC9DirectoryOtKFZ",
+            "mangledName": "$s6Anpush4DiskC6getURL3for2in10Foundation0D0VSSSg_AC9DirectoryOtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "deprecated": true,
+            "declAttributes": [
+              "Final",
+              "Available",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "url",
+            "printedName": "url(for:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC3url3for2in10Foundation3URLVSSSg_AC9DirectoryOtKFZ",
+            "mangledName": "$s6Anpush4DiskC3url3for2in10Foundation3URLVSSSg_AC9DirectoryOtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "clear",
+            "printedName": "clear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC5clearyyAC9DirectoryOKFZ",
+            "mangledName": "$s6Anpush4DiskC5clearyyAC9DirectoryOKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "remove",
+            "printedName": "remove(_:from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6remove_4fromySS_AC9DirectoryOtKFZ",
+            "mangledName": "$s6Anpush4DiskC6remove_4fromySS_AC9DirectoryOtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "remove",
+            "printedName": "remove(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6removeyy10Foundation3URLVKFZ",
+            "mangledName": "$s6Anpush4DiskC6removeyy10Foundation3URLVKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "exists",
+            "printedName": "exists(_:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6exists_2inSbSS_AC9DirectoryOtFZ",
+            "mangledName": "$s6Anpush4DiskC6exists_2inSbSS_AC9DirectoryOtFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "exists",
+            "printedName": "exists(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6existsySb10Foundation3URLVFZ",
+            "mangledName": "$s6Anpush4DiskC6existsySb10Foundation3URLVFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "doNotBackup",
+            "printedName": "doNotBackup(_:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC11doNotBackup_2inySS_AC9DirectoryOtKFZ",
+            "mangledName": "$s6Anpush4DiskC11doNotBackup_2inySS_AC9DirectoryOtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "doNotBackup",
+            "printedName": "doNotBackup(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC11doNotBackupyy10Foundation3URLVKFZ",
+            "mangledName": "$s6Anpush4DiskC11doNotBackupyy10Foundation3URLVKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "backup",
+            "printedName": "backup(_:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6backup_2inySS_AC9DirectoryOtKFZ",
+            "mangledName": "$s6Anpush4DiskC6backup_2inySS_AC9DirectoryOtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "backup",
+            "printedName": "backup(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6backupyy10Foundation3URLVKFZ",
+            "mangledName": "$s6Anpush4DiskC6backupyy10Foundation3URLVKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "move",
+            "printedName": "move(_:in:to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC4move_2in2toySS_AC9DirectoryOAHtKFZ",
+            "mangledName": "$s6Anpush4DiskC4move_2in2toySS_AC9DirectoryOAHtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "move",
+            "printedName": "move(_:to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC4move_2toy10Foundation3URLV_AHtKFZ",
+            "mangledName": "$s6Anpush4DiskC4move_2toy10Foundation3URLV_AHtKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "rename",
+            "printedName": "rename(_:in:to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Anpush.Disk.Directory",
+                "usr": "s:6Anpush4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC6rename_2in2toySS_AC9DirectoryOSStKFZ",
+            "mangledName": "$s6Anpush4DiskC6rename_2in2toySS_AC9DirectoryOSStKFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isFolder",
+            "printedName": "isFolder(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush4DiskC8isFolderySb10Foundation3URLVFZ",
+            "mangledName": "$s6Anpush4DiskC8isFolderySb10Foundation3URLVFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:6Anpush4DiskC",
+        "mangledName": "$s6Anpush4DiskC",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "CoreAudioTypes",
+        "printedName": "CoreAudioTypes",
+        "declKind": "Import",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "AppsFlyerLib",
+        "printedName": "AppsFlyerLib",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreAudioTypes",
+        "printedName": "CoreAudioTypes",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "AdSupport",
+        "printedName": "AdSupport",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "AppTrackingTransparency",
+        "printedName": "AppTrackingTransparency",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "OneSignalFramework",
+        "printedName": "OneSignalFramework",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "FirebaseAnalytics",
+        "printedName": "FirebaseAnalytics",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "FBSDKCoreKit",
+        "printedName": "FBSDKCoreKit",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "Lottie",
+        "printedName": "Lottie",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "FirebaseCore",
+        "printedName": "FirebaseCore",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "FirebaseRemoteConfig",
+        "printedName": "FirebaseRemoteConfig",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AllTheTime",
+        "printedName": "AllTheTime",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "userDefineKeys",
+            "printedName": "userDefineKeys",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Anpush@objc(cs)AllTheTime(py)userDefineKeys",
+            "mangledName": "$s6Anpush10AllTheTimeC14userDefineKeysSDyS2SGvp",
+            "moduleName": "Anpush",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Anpush@objc(cs)AllTheTime(im)userDefineKeys",
+                "mangledName": "$s6Anpush10AllTheTimeC14userDefineKeysSDyS2SGvg",
+                "moduleName": "Anpush",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Anpush@objc(cs)AllTheTime(im)setUserDefineKeys:",
+                "mangledName": "$s6Anpush10AllTheTimeC14userDefineKeysSDyS2SGvs",
+                "moduleName": "Anpush",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6Anpush10AllTheTimeC14userDefineKeysSDyS2SGvM",
+                "mangledName": "$s6Anpush10AllTheTimeC14userDefineKeysSDyS2SGvM",
+                "moduleName": "Anpush",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "inithuinit",
+            "printedName": "inithuinit()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Anpush@objc(cs)AllTheTime(cm)inithuinit",
+            "mangledName": "$s6Anpush10AllTheTimeC10inithuinityyFZ",
+            "moduleName": "Anpush",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "enabled",
+            "printedName": "enabled()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:6Anpush10AllTheTimeC7enabledyyF",
+            "mangledName": "$s6Anpush10AllTheTimeC7enabledyyF",
+            "moduleName": "Anpush",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AllTheTime",
+                "printedName": "Anpush.AllTheTime",
+                "usr": "c:@M@Anpush@objc(cs)AllTheTime"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Anpush@objc(cs)AllTheTime(im)init",
+            "mangledName": "$s6Anpush10AllTheTimeCACycfc",
+            "moduleName": "Anpush",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Anpush@objc(cs)AllTheTime",
+        "mangledName": "$s6Anpush10AllTheTimeC",
+        "moduleName": "Anpush",
+        "objc_name": "AllTheTime",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Anpush"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Anpush",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1256,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1287,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1320,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1353,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1403,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1449,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1496,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1256,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1287,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1320,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1353,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1403,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1449,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1496,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1256,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1287,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1320,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1353,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1403,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1449,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1496,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Anpush\/Disk\/Disk+Errors.swift",
+      "kind": "StringLiteral",
+      "offset": 1545,
+      "length": 17,
+      "value": "\"DiskErrorDomain\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/AllTheTime.swift",
+      "kind": "Dictionary",
+      "offset": 516,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/AllTheTime.swift",
+      "kind": "StringLiteral",
+      "offset": 1337,
+      "length": 13,
+      "value": "\"cacheone.db\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/AllTheTime.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6185,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/AllTheTime.swift",
+      "kind": "StringLiteral",
+      "offset": 15173,
+      "length": 27,
+      "value": "\"Anpush.AppsFlyerLibDelegateWrapper\""
+    }
+  ]
+}
