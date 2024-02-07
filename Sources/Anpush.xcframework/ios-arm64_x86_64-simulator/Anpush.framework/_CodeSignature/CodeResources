@@ -8,14 +8,6 @@
 		<data>
 		07ck3jeIxZMoWlssw7i//hwpl44=
 		</data>
-		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
-		<data>
-		3fhV8tgJSubLzcBi76AFLLBv5rI=
-		</data>
-		<key>GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		GqeAMkwbcNQeG0K4qQhQh2vHhHo=
-		</data>
 		<key>Headers/Anpush-Swift.h</key>
 		<data>
 		nHwXXv2Qxcu6gaPNliQETXGEzzE=
@@ -46,7 +38,7 @@
 		</data>
 		<key>Modules/Anpush.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AAF7CU4bO9XVd9dv4+M8qe8VFF0=
+		Apm/hioGAnjC3IsbtxeVMrGX0+o=
 		</data>
 		<key>Modules/Anpush.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -66,11 +58,15 @@
 		</data>
 		<key>Modules/Anpush.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		p2nmWmlq9XyYVQ7n1cgQiMR/hVE=
+		UWOcLSB79OXWYqDZRoHAf6loTOs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		h7D5KCOGIQzPtfF054e5uxRP8QY=
+		</data>
+		<key>codemagic.yaml</key>
+		<data>
+		Ch6fOLJ5KAG/qd+PBoMrNtNnprg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -80,20 +76,6 @@
 			<key>hash2</key>
 			<data>
 			1t3OvGxlK9ZFZQvbr3wKvCmmqp149wEkG9A/mGhcCEE=
-			</data>
-		</dict>
-		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NSf8QoskU5RznmAcJL98LObDYSJyKZRMZsdymWqlyos=
-			</data>
-		</dict>
-		<key>GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PkqTy+hqzvfdfgY6KMhJmS9Vbn9SytxfN8HosOG1RoY=
 			</data>
 		</dict>
 		<key>Headers/Anpush-Swift.h</key>
@@ -142,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nFpaYyi4mRpw3HE60j5e9csuVz/0TYMJRwMRMIr6RlY=
+			fbJxGZxv5kWQxUeuNq9Njg7ABFehhsCfiEMQB4Jlz7o=
 			</data>
 		</dict>
 		<key>Modules/Anpush.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -177,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8PMmLtxO77wTdjnjPKRc5o7/aWiXkyDenDHowcTdSIA=
+			f9mOTsESRER87Amc8zqZ5yYJ8aHdSHXphnFYkIEogs8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -185,6 +167,13 @@
 			<key>hash2</key>
 			<data>
 			KaUVjz2OZInSdurj/VkMfutzkbUdZBjf9C/8a8u8cmQ=
+			</data>
+		</dict>
+		<key>codemagic.yaml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vbJ5s2OPTGSqRHf4T4rmfYdsWfUqoDOfxIm/+Vun9ck=
 			</data>
 		</dict>
 	</dict>
