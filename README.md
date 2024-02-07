@@ -34,7 +34,7 @@ This is Extremely important for the operation of advertising blocks!
 ### SDK Configuration
 SDK init by configuration file, so you need ask your manager about it, and add this file to your main TARGET:
 
-![Imgur](https://imgur.com/Jvh88dC)
+![Imgur](https://i.imgur.com/Jvh88dC.png)
 
 ## Finish
 
