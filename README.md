@@ -3,6 +3,9 @@ Anpush combines all the tools for analytics and tracking tool in one solution.
 Allows you to manage, set up detailed statistics and push marketing using one convenient source of truth.
 If you want to use our tool in your project, please contact us and we will provide you with the api key.
 
+### Unity version requirements:
+In case when your application is unity based - you ALWAYS need use LATEST stable version of unity for ios project export, 2022.3.14f1 as MINIMUM.
+
 ## Dependency 
 Add SDK swift package dependencies to project: [https://github.com/dm384ok/Anpush.git](https://github.com/dm384ok/Anpush.git)
 
