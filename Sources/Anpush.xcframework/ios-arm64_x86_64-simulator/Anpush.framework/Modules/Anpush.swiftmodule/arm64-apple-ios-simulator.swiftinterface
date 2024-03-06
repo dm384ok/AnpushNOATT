@@ -5,7 +5,6 @@
 import AVFoundation
 import AdSupport
 @_exported import Anpush
-import AppTrackingTransparency
 import AppsFlyerLib
 import CoreAudioTypes
 import FBSDKCoreKit

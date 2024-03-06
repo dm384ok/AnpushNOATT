@@ -2487,13 +2487,6 @@
       },
       {
         "kind": "Import",
-        "name": "AppTrackingTransparency",
-        "printedName": "AppTrackingTransparency",
-        "declKind": "Import",
-        "moduleName": "Anpush"
-      },
-      {
-        "kind": "Import",
         "name": "AVKit",
         "printedName": "AVKit",
         "declKind": "Import",
@@ -3084,35 +3077,35 @@
     {
       "filePath": "\/Users\/builder\/clone\/AllTheTime.swift",
       "kind": "Dictionary",
-      "offset": 533,
+      "offset": 502,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/builder\/clone\/AllTheTime.swift",
       "kind": "StringLiteral",
-      "offset": 1352,
+      "offset": 1321,
       "length": 13,
       "value": "\"cacheone.db\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/AllTheTime.swift",
       "kind": "BooleanLiteral",
-      "offset": 1563,
+      "offset": 1532,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/AllTheTime.swift",
       "kind": "BooleanLiteral",
-      "offset": 6551,
+      "offset": 6444,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/AllTheTime.swift",
       "kind": "StringLiteral",
-      "offset": 17305,
+      "offset": 16922,
       "length": 27,
       "value": "\"Anpush.AppsFlyerLibDelegateWrapper\""
     }

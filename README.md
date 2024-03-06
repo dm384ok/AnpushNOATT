@@ -7,7 +7,7 @@ If you want to use our tool in your project, please contact us and we will provi
 In case when your application is unity based - you ALWAYS need use LATEST stable version of unity for ios project export, 2022.3.14f1 as MINIMUM.
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/dm384ok/Anpush.git](https://github.com/dm384ok/Anpush.git)
+Add SDK swift package dependencies to project: [https://github.com/dm384ok/AnpushNOATT](https://github.com/dm384ok/AnpushNOATT.git)
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
@@ -15,10 +15,6 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 > NSAdvertisingAttributionReportEndpoint : https://appsflyer-skadnetwork.com/
 
 > ITSAppUsesNonExemptEncryption  :  NO
-
-> NSUserTrackingUsageDescription : Select "Allow" for better experience. This identifier will be used to  order to functionalities and user engagement.
-
-> NSLocationWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
 
 > NSCameraUsageDescription : Select "Allow" for better experience. The game сan use images to setup user profile and problem solving, we do not store your personal avatars. 
 
